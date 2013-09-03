@@ -14,4 +14,6 @@
 * Natan L
 * David J. Felix
 * M. Yasoob
-* Mohammad Faizal
+* Konark Modi
+* Mohammad Faizal Z
+
